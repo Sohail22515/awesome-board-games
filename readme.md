@@ -293,7 +293,7 @@
 
 > Also known as Snakes and Ladders, Chutes and Ladders is simple and easy to play, even for those who can't read. Going up the ladders and down the chutes, a child will learn (by the pictures) the rewards of good deeds and the consequences of naughty ones.
 
-![Chutes and Ladders game image](https://upload.wikimedia.org/wikipedia/en/b/ba/Cnl03.jpg)
+![Chutes and Ladders game image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Snakes_and_Ladders.jpg/199px-Snakes_and_Ladders.jpg)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
@@ -646,9 +646,11 @@
 
 ### [Tak](https://en.wikipedia.org/wiki/Tak_(game))
 
-> The objective of Tak is to be the first to connect any two opposite edges of the board with their pieces, called "stones", creating a road. To this end, players will take turns attacking and capturing their opponent's pieces while supporting their own.
+>Tak is a two-player abstract strategy game
+>
+> In Tak, players aim to connect two opposite edges of the board with pieces called "stones" and create a road. Players take turns placing their own stones and building a road while blocking and capturing their opponent's stones.
 
-![Tak game image](https://d31wxntiwn0x96.cloudfront.net/wjzajk/productimages/2921_0.jpeg?etag=%22337530d698d616468ed5f3f095ab7288%22&width=200&height=200)
+![Tak game image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Game_of_Tak.jpg/286px-Game_of_Tak.jpg)
 
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
